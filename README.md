@@ -18,3 +18,6 @@ A clinician has rated the presence of diabetic retinopathy in each image on a sc
 The data is divided into multiple parts, consisting of 82GB. So I mounted the data onto my Drive and used the link in my notebook.
 
 By doing predictions, I get to know that upto 74% of test data belongs to category number 5, that is, Proliferative DR where the retina is deprived of oxygen causing it to create more blood vessels which fills the black of the retina.
+
+You can also have a look at my project on YouTube: 
+https://www.youtube.com/watch?v=Y89sjqx6dJw&t=127s
